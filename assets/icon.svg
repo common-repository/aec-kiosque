@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-icon-128x128">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="icon-128x128" clip-path="url(#clip-icon-128x128)">
+    <rect width="128" height="128" fill="#04a499"/>
+    <g id="Log-blanco" transform="translate(20.962 42.483)">
+      <path id="Path_92" data-name="Path 92" d="M366.174,363.047a18.659,18.659,0,0,0-18.637,18.637h5.324a13.313,13.313,0,0,1,26.626,0h5.324A18.658,18.658,0,0,0,366.174,363.047Z" transform="translate(-323.717 -339.055)" fill="#fff"/>
+      <path id="Path_93" data-name="Path 93" d="M370.615,359.433a26.656,26.656,0,0,0-26.626,26.626h5.324a21.3,21.3,0,0,1,42.6,0h5.324A26.655,26.655,0,0,0,370.615,359.433Z" transform="translate(-328.014 -343.432)" fill="#fff"/>
+      <path id="Path_94" data-name="Path 94" d="M374.99,355.819a34.652,34.652,0,0,0-34.612,34.612H345.7a29.289,29.289,0,1,1,58.578,0H409.6A34.651,34.651,0,0,0,374.99,355.819Z" transform="translate(-332.386 -347.808)" fill="#fff"/>
+      <path id="Path_95" data-name="Path 95" d="M379.364,352.2a42.651,42.651,0,0,0-42.6,42.6h5.324a37.276,37.276,0,0,1,74.553,0h5.324A42.648,42.648,0,0,0,379.364,352.2Z" transform="translate(-336.764 -352.196)" fill="#fff"/>
+    </g>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="128" height="128" stroke="none"/>
+      <rect x="0.5" y="0.5" width="127" height="127" fill="none"/>
+    </g>
+  </g>
+</svg>
